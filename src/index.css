@@ -5,3 +5,7 @@
 body {
   background-color: #000300;
 }
+
+.img-shadow {
+  box-shadow: -5px 5px 10px #00df9a;
+}
